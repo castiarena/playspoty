@@ -1,5 +1,4 @@
-
 // define api
 export const api = () => {
-    console.log('e')
+  console.log('e')
 }
