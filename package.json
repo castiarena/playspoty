@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "apisauce": "2.1.6",
+    "dotenv": "16.0.3",
     "express": "4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -19,7 +20,15 @@
     "@types/node": "18.11.3",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1",
     "@vitejs/plugin-react": "^2.1.0",
+    "eslint": "^8.26.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.10",
+    "prettier": "^2.7.1",
     "typescript": "^4.6.4",
     "vite": "^3.1.8",
     "vite-plugin-mix": "0.3.1"
